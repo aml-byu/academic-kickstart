@@ -50,7 +50,7 @@ subtitle = ""
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "btn-outline-primary"
  
  # CSS class.
  css_class = ""

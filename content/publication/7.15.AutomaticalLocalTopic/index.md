@@ -11,7 +11,6 @@ authors:
 
 date: "2019-08-30T00:00:00Z"
 doi: ""
-
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
 
@@ -23,20 +22,13 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "In the Proceedings of the 2019 Conference for the Association of Computational Linguistics"
-publication_short: ""
-
-abstract: 
-
-# # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
 featured: false
 
 links:
-url_pdf: https://arxiv.org/abs/1909.00252
-url_code: https://github.com/orionw/RedditHumorDetection
+url_pdf: https://arxiv.org/abs/1905.13126
 # url_dataset: '#'
 # url_poster: '#'
 
