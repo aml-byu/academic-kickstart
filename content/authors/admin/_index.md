@@ -58,7 +58,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Principal Investigators
 ---
 
 Dr. Seppi received his B.S. in Computer Science from Brigham Young University in 1982 and his M.S. from Santa Clara University in 1987. He received his Ph.D. from the University of Texas at Austin in 1990 on a resident study fellowship from IBM. He returned to IBM following his Ph.D. work, and worked with IBM until 1995 when he joined BMC Software. Dr. Seppi joined the BYU Computer Science faculty in the fall of 2002.
