@@ -1,45 +1,52 @@
 ---
 # Display name
-name: Kevin Seppi
+name: Brandon Schoenfield
 
 # Username (this should match the folder name)
 authors:
-- admin
+- brandonS
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Professor of Computer Science
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
 - name: Brigham Young University
-  url: "https://cs.byu.edu/faculty/kseppi"
+  url: ""
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Bayesian Learning
-- Human Computer Interaction
+- Machine Learning
+- Metalearning
 
 education:
   courses:
   - course: PhD in Computer Science
-    institution: University of Texas, Austin
-    # year: 2012
-  - course: M.S. in Computer Science
-    institution: Santa Clara University
-    # year: 2009
-  - course: B.S. in Computer Science
     institution: Brigham Young University
-    # year: 2008
+    year: 2019 - Present
+  - course: M.S. in Computer Science
+    institution: Brigham Young University
+    year: 2019
+  - course: BS in Applied and Computational Mathematics
+    institution: Brigham Young University
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -58,7 +65,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Grad Students
 ---
 
-Dr. Seppi received his B.S. in Computer Science from Brigham Young University in 1982 and his M.S. from Santa Clara University in 1987. He received his Ph.D. from the University of Texas at Austin in 1990 on a resident study fellowship from IBM. He returned to IBM following his Ph.D. work, and worked with IBM until 1995 when he joined BMC Software. Dr. Seppi joined the BYU Computer Science faculty in the fall of 2002.
+Brandon is ...
